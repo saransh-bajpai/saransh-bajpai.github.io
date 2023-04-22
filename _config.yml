@@ -81,13 +81,15 @@ analytics:
 # Site Author
 author:
   name             : "Saransh Bajpai"
-  avatar           : "https://drive.google.com/file/d/1T3i0qA4ngmjmAsI6Dfayyed5A0d8Zn9n/view?usp=share_link"
+  avatar           : "profile_pic.jpeg"
   bio              : "Software Engineer, Aspiring entrepreneur"
   location         : "Mumbai, India"
-  employer         : "Cogoport"
+  github           : "saransh-bajpai"
+  twitter          : "saransh_bajpai"
+  email            : "saranshbjpai@gmail.com"
+  # employer         : "Cogoport"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "saranshbjpai@gmail.com"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +98,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "saransh-bajpai"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +110,6 @@ author:
   # stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "saransh_bajpai"
   vine             :
   weibo            :
   xing             :
